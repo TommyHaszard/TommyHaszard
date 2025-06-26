@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Tommy
+
+I'm currently working at Ferag, a Swiss Intralogistics company where I'm developing the Warehouse Automation.
+I have a deep passion integrating the hardware subsystems together to design a coherent system for our customers.
+
+-  At work I'm currently integrating the Autonomous Product Picking system, driven by events from the hardware and processed with an Actor Model for concurrent processing and keep state isolated within each pick station.
+- 🌱 Outside of work my personal projects have been centered around Rust, ranging from an offline message app for Music Festivals to small algos for solving Linkdins games with the help of OpenCv and some Machine Learning models.
 
 <!--
-**TommyHaszard/TommyHaszard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
