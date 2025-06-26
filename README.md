@@ -23,7 +23,7 @@ I have a deep passion integrating the hardware subsystems together to design a c
 </p>
 
 
-Feel free to reach out to me on Linkedin @ <a href="https://www.linkedin.com/in/thomas-haszard-205363188/" target="_blank" rel="noreferrer"> 
+Feel free to reach out to me on Linkedin @ <a href="https://www.linkedin.com/in/thomas-haszard/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a>
 
 <!--
